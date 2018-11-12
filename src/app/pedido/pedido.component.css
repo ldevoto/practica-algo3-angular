@@ -1,0 +1,15 @@
+.pedido {
+    margin: 40px;
+}
+.tabla {
+    width: 500px;
+}
+.filtro {
+    width: 100%;
+}
+.boton {
+    margin-top: 10px;
+}
+.mat-column-cantidad {
+    text-align: center;
+}
